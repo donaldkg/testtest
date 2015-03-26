@@ -21,6 +21,7 @@ public class MultiPurposeCalculator {
 				int c = b / a;
 				return gcd(a, b - a * c);
 			}
+			//tetestestsetsets
 		}
 	}
 }
